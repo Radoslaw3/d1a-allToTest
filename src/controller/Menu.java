@@ -13,6 +13,8 @@ public class Menu {
         Child child1 = new Child();
         System.out.println(child1);
 
+
+
 //        Parent parent = new Child();
 //        (10,120,"brak",false);
 
